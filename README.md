@@ -1,5 +1,7 @@
 # 🌟 Magic Image Prompt Enhancer 🖼️
 
+<img src="assets/mpe.png" alt="Alt text" title="Optional title" width="500" height="500">
+
 The Magic Image Prompt Enhancer project enhances the user's short prompt with more details for the image generation process. It leverages the Zephyr-7b-beta model to generate detailed prompts based on user input.
 
 ## 💡 How it Works
